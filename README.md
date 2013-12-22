@@ -1,2 +1,2 @@
-wordpress-al-theme-mobile
+wordpress-dc-theme-mobile
 =========================
